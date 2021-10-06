@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Authors" max_length="40" name="x_698315_quotes_authors" sizeclass="10030" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Author" max_length="60" name="author" type="string"/>
+    </element>
+</database>
